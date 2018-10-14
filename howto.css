@@ -1,0 +1,54 @@
+.section{
+  padding: 20px;
+  }
+body{
+  font-family: roboto;
+  }
+h1,h2,h3{
+  font-family: oswald;
+  color:#ff0000;
+  }
+table{
+  width:100%;
+  }
+th,td{
+  border: 1px solid black;
+  }
+.heading {
+  color:#ff0000;
+  }
+.outer-box {
+  background-color:grey;
+  margin:10px;
+  padding:10px;
+  min-height:300px;
+  }
+.bullets{
+  list-style-type:square
+  }
+.name {
+  color:white;
+  font-family:Tahoma;
+  margin-left:20px;
+  }
+.picture {
+  margin-left:20px;
+  float:left;
+  margin-right:20px;
+  margin-bottom:10px;
+  border:2px solid black;
+  }
+.bio {
+  font-family:Tahoma;
+  padding-left:20px;
+  padding-right:20px;
+  padding-bottom:20px;
+  color:black;
+  }
+img {
+  display:block;
+  }
+#ad {
+  float:right;
+  margin-right:10px;
+  }
